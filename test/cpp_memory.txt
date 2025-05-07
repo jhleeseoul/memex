@@ -1,0 +1,3 @@
+Memory leaks in C++ often occur when using 'new' without 'delete'.
+To prevent memory leaks, use smart pointers like std::unique_ptr or std::shared_ptr.
+You can also use tools like Valgrind to detect leaks in your programs.

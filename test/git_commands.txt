@@ -1,0 +1,3 @@
+To temporarily save changes, use 'git stash'.
+You can apply them later with 'git stash pop'.
+Use 'git commit' to permanently save changes to your local repository.

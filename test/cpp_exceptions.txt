@@ -1,0 +1,24 @@
+# Understanding Exceptions in C++
+
+Exceptions in C++ are a mechanism for handling runtime errors or unexpected conditions in a program. They provide a way to transfer control from one part of a program to another when an error occurs, allowing developers to write robust and maintainable code.
+
+## Basics of Exceptions
+
+An exception is an event that disrupts the normal flow of a program. In C++, exceptions are thrown using the `throw` keyword and caught using `try` and `catch` blocks.
+
+### Example:
+#include <iostream>
+#include <stdexcept>
+
+int main() {
+    try {
+        // Throwing an exception
+        throw std::runtime_error("An error occurred!");
+    } catch (const std::exception& e) {
+        // Catching and handling the exception
+        std::cerr << "Exception caught: " << e.what() << std::endl;
+    }
+
+    std::cout << "Program continues after exception handling." << std::endl;
+    return 0;
+}

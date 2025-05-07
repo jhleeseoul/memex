@@ -1,0 +1,7 @@
+Inheritance in C++
+
+Inheritance is one of the fundamental concepts of Object-Oriented Programming (OOP) in C++. It allows a class (called the derived class) to inherit properties and behaviors (data members and member functions) from another class (called the base class). This promotes code reuse and establishes a hierarchical relationship between classes.
+
+### Syntax of Inheritance
+In C++, inheritance is implemented using the `:` symbol followed by an access specifier (`public`, `protected`, or `private`).
+

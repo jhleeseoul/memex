@@ -1,0 +1,8 @@
+# Understanding Lambdas in C++
+
+Lambdas, also known as lambda expressions, are a powerful feature introduced in C++11. They allow you to define anonymous functions directly in your code, making it easier to write concise and expressive logic. Lambdas are particularly useful in scenarios where you need to pass small functions as arguments to algorithms or callbacks.
+
+## Syntax of a Lambda Expression
+
+The basic syntax of a lambda expression is as follows:
+

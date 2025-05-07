@@ -1,0 +1,13 @@
+File Input and Output (I/O) in C++ is an essential concept for interacting with files on a system. It allows programs to read data from files and write data to files, enabling persistent storage of information. C++ provides a robust set of libraries and classes for file I/O, primarily through the `<fstream>` header.
+
+### Basics of File I/O in C++
+
+The `<fstream>` header includes three main classes:
+1. `std::ifstream` - Input file stream, used for reading files.
+2. `std::ofstream` - Output file stream, used for writing files.
+3. `std::fstream` - File stream, used for both reading and writing.
+
+#### Opening and Closing Files
+To work with files, you need to open them first. This is done using the `open()` method or by passing the file name to the constructor of the file stream object. Always ensure that files are properly closed after operations using the `close()` method.
+
+Example:

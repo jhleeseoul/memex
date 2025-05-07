@@ -1,0 +1,4049 @@
+{
+  "docFrequencies": {
+    "11": 2,
+    "14": 1,
+    "17": 1,
+    "20": 1,
+    "42": 1,
+    "755": 1,
+    "about": 1,
+    "abstractions": 1,
+    "access": 2,
+    "acquiring": 1,
+    "add": 1,
+    "addr": 1,
+    "advantage": 1,
+    "after": 2,
+    "algorithm": 1,
+    "algorithms": 2,
+    "all": 1,
+    "allow": 2,
+    "allowing": 2,
+    "allows": 3,
+    "also": 2,
+    "always": 2,
+    "anonymous": 1,
+    "another": 2,
+    "applications": 1,
+    "apply": 1,
+    "applying": 1,
+    "are": 4,
+    "arguments": 1,
+    "as": 1,
+    "async": 1,
+    "asynchronous": 1,
+    "auto": 1,
+    "avoid": 1,
+    "base": 1,
+    "bash": 1,
+    "basic": 2,
+    "basics": 2,
+    "be": 1,
+    "been": 2,
+    "begin": 1,
+    "behaviors": 1,
+    "best": 1,
+    "better": 1,
+    "between": 2,
+    "blocks": 1,
+    "bool": 1,
+    "both": 1,
+    "build": 1,
+    "by": 5,
+    "callbacks": 1,
+    "called": 1,
+    "can": 3,
+    "case": 1,
+    "catch": 1,
+    "catching": 1,
+    "caught": 1,
+    "cd": 1,
+    "cerr": 1,
+    "change": 1,
+    "changes": 1,
+    "check": 1,
+    "chmod": 1,
+    "chown": 1,
+    "class": 2,
+    "classes": 2,
+    "close": 1,
+    "closed": 1,
+    "closing": 1,
+    "code": 3,
+    "color": 1,
+    "colored": 1,
+    "combine": 1,
+    "commands": 1,
+    "commit": 1,
+    "communication": 1,
+    "comprehensive": 1,
+    "compute": 1,
+    "concept": 1,
+    "concepts": 2,
+    "concise": 1,
+    "conclusion": 1,
+    "concurrency": 1,
+    "concurrent": 1,
+    "condition": 1,
+    "conditions": 2,
+    "configuration": 1,
+    "connectivity": 1,
+    "consistent": 1,
+    "const": 2,
+    "constructor": 1,
+    "continues": 1,
+    "control": 1,
+    "copy": 1,
+    "count": 1,
+    "cout": 2,
+    "cp": 1,
+    "cpp": 3,
+    "create": 1,
+    "curl": 1,
+    "current": 1,
+    "cv": 1,
+    "data": 3,
+    "deadlocks": 1,
+    "debugging": 1,
+    "define": 1,
+    "delete": 2,
+    "derived": 1,
+    "design": 1,
+    "destination": 1,
+    "detailed": 1,
+    "detect": 1,
+    "developers": 2,
+    "df": 1,
+    "directly": 1,
+    "directories": 3,
+    "directory": 2,
+    "disk": 1,
+    "display": 2,
+    "disrupts": 1,
+    "done": 1,
+    "download": 1,
+    "du": 1,
+    "dummy": 2,
+    "each": 1,
+    "easier": 1,
+    "easily": 1,
+    "effectively": 1,
+    "efficient": 1,
+    "enable": 1,
+    "enabling": 2,
+    "end": 1,
+    "endl": 2,
+    "enhanced": 1,
+    "ensure": 2,
+    "error": 1,
+    "errors": 1,
+    "essential": 1,
+    "establishes": 1,
+    "event": 1,
+    "example": 2,
+    "exception": 1,
+    "exceptions": 1,
+    "exclude": 1,
+    "exclusion": 1,
+    "executable": 1,
+    "execute": 1,
+    "execution": 1,
+    "expression": 1,
+    "expressions": 2,
+    "expressive": 1,
+    "false": 1,
+    "feature": 1,
+    "file": 5,
+    "filename": 2,
+    "files": 4,
+    "find": 2,
+    "finish": 1,
+    "first": 1,
+    "flag": 1,
+    "flags": 1,
+    "flow": 1,
+    "followed": 1,
+    "follows": 1,
+    "for": 9,
+    "format": 1,
+    "free": 1,
+    "from": 5,
+    "fstream": 1,
+    "full": 1,
+    "functions": 2,
+    "fundamental": 1,
+    "further": 1,
+    "future": 1,
+    "futures": 1,
+    "gained": 1,
+    "get": 1,
+    "git": 1,
+    "grant": 1,
+    "grep": 2,
+    "group": 1,
+    "guard": 1,
+    "handling": 1,
+    "has": 2,
+    "header": 1,
+    "hello": 1,
+    "hidden": 1,
+    "hierarchical": 1,
+    "high": 1,
+    "host": 1,
+    "how": 1,
+    "htop": 1,
+    "human": 2,
+    "id": 1,
+    "if": 1,
+    "ifconfig": 1,
+    "ifstream": 1,
+    "implemented": 1,
+    "include": 3,
+    "includes": 1,
+    "info": 1,
+    "information": 3,
+    "inherit": 1,
+    "inheritance": 1,
+    "input": 1,
+    "insensitive": 1,
+    "inside": 1,
+    "int": 2,
+    "interacting": 1,
+    "internet": 1,
+    "introduced": 2,
+    "introduction": 1,
+    "invert": 1,
+    "iostream": 2,
+    "ip": 1,
+    "it": 3,
+    "its": 1,
+    "join": 1,
+    "key": 1,
+    "keyword": 1,
+    "kill": 1,
+    "known": 1,
+    "lah": 1,
+    "lambda": 1,
+    "lambdas": 1,
+    "language": 1,
+    "later": 1,
+    "leaks": 1,
+    "level": 1,
+    "lh": 1,
+    "libraries": 1,
+    "library": 1,
+    "like": 2,
+    "line": 1,
+    "lines": 1,
+    "linux": 1,
+    "list": 2,
+    "listing": 1,
+    "local": 1,
+    "locate": 1,
+    "lock": 1,
+    "locks": 1,
+    "logic": 1,
+    "long": 1,
+    "ls": 2,
+    "main": 3,
+    "maintainable": 1,
+    "make": 1,
+    "making": 2,
+    "manage": 2,
+    "management": 2,
+    "match": 1,
+    "matches": 1,
+    "md": 3,
+    "mechanism": 2,
+    "member": 1,
+    "members": 1,
+    "memory": 2,
+    "message": 1,
+    "met": 1,
+    "method": 1,
+    "minimize": 1,
+    "modern": 1,
+    "modification": 1,
+    "modify": 1,
+    "monitor": 1,
+    "monitoring": 1,
+    "more": 1,
+    "move": 1,
+    "mtx": 1,
+    "multicore": 1,
+    "multiple": 2,
+    "multithreading": 1,
+    "mutex": 1,
+    "mutexes": 1,
+    "mutual": 1,
+    "mv": 1,
+    "name": 2,
+    "navigate": 1,
+    "need": 2,
+    "network": 1,
+    "networking": 1,
+    "new": 1,
+    "normal": 1,
+    "notify": 1,
+    "number": 1,
+    "numbers": 1,
+    "object": 2,
+    "occur": 1,
+    "occurred": 1,
+    "occurs": 1,
+    "ofstream": 1,
+    "often": 1,
+    "one": 3,
+    "only": 1,
+    "oop": 1,
+    "open": 1,
+    "opening": 1,
+    "operations": 1,
+    "order": 1,
+    "oriented": 1,
+    "output": 2,
+    "overview": 1,
+    "owner": 1,
+    "ownership": 1,
+    "par": 1,
+    "parallel": 1,
+    "part": 1,
+    "particularly": 1,
+    "pass": 1,
+    "passing": 1,
+    "path": 1,
+    "pattern": 2,
+    "patterns": 1,
+    "permanently": 1,
+    "permissions": 1,
+    "persistent": 1,
+    "pid": 1,
+    "ping": 1,
+    "pointers": 1,
+    "policies": 1,
+    "pop": 1,
+    "possible": 1,
+    "powerful": 2,
+    "practices": 1,
+    "prevent": 2,
+    "primarily": 1,
+    "printmessage": 1,
+    "printsafe": 1,
+    "private": 1,
+    "process": 1,
+    "processes": 1,
+    "processors": 1,
+    "program": 1,
+    "programming": 1,
+    "programs": 3,
+    "promise": 1,
+    "promises": 1,
+    "promotes": 1,
+    "proper": 1,
+    "properly": 1,
+    "properties": 1,
+    "protected": 1,
+    "provide": 2,
+    "provides": 2,
+    "pstree": 1,
+    "ptr": 1,
+    "public": 1,
+    "races": 1,
+    "reachable": 1,
+    "read": 1,
+    "readability": 1,
+    "readable": 2,
+    "reading": 1,
+    "ready": 1,
+    "recursive": 1,
+    "recursively": 2,
+    "reduce": 1,
+    "regex": 1,
+    "regular": 1,
+    "relationship": 1,
+    "remove": 1,
+    "rename": 1,
+    "repository": 1,
+    "resources": 1,
+    "responsive": 1,
+    "result": 1,
+    "return": 2,
+    "reuse": 1,
+    "risk": 1,
+    "rm": 1,
+    "robust": 3,
+    "running": 2,
+    "runtime": 1,
+    "save": 1,
+    "scalable": 1,
+    "scenarios": 1,
+    "search": 2,
+    "searching": 1,
+    "see": 1,
+    "set": 2,
+    "settings": 1,
+    "sh": 1,
+    "shared": 2,
+    "show": 1,
+    "simplify": 1,
+    "simultaneously": 1,
+    "size": 1,
+    "sizes": 1,
+    "small": 1,
+    "smart": 1,
+    "sort": 1,
+    "source": 1,
+    "space": 1,
+    "specific": 3,
+    "specifier": 1,
+    "standard": 1,
+    "standards": 1,
+    "stash": 1,
+    "std": 4,
+    "stdexcept": 1,
+    "stl": 1,
+    "storage": 1,
+    "stream": 1,
+    "string": 2,
+    "subsequent": 1,
+    "support": 1,
+    "symbol": 1,
+    "synchronization": 1,
+    "syntax": 2,
+    "system": 2,
+    "t1": 1,
+    "t2": 1,
+    "take": 1,
+    "tasks": 1,
+    "template": 1,
+    "temporarily": 1,
+    "term": 1,
+    "terminate": 1,
+    "test": 1,
+    "text": 1,
+    "that": 2,
+    "them": 2,
+    "these": 1,
+    "they": 2,
+    "this": 4,
+    "thread": 1,
+    "threads": 1,
+    "three": 1,
+    "through": 1,
+    "throw": 1,
+    "throwing": 1,
+    "thrown": 1,
+    "time": 1,
+    "tip": 3,
+    "tips": 4,
+    "tools": 2,
+    "top": 1,
+    "transfer": 1,
+    "tree": 1,
+    "true": 1,
+    "try": 2,
+    "txt": 2,
+    "uname": 1,
+    "understanding": 3,
+    "unexpected": 1,
+    "unique": 2,
+    "unit": 1,
+    "uptime": 1,
+    "url": 1,
+    "usage": 1,
+    "use": 6,
+    "used": 1,
+    "useful": 2,
+    "user": 1,
+    "using": 5,
+    "valgrind": 1,
+    "variable": 1,
+    "variables": 1,
+    "vector": 1,
+    "view": 2,
+    "void": 1,
+    "wait": 1,
+    "way": 1,
+    "wget": 1,
+    "what": 1,
+    "when": 3,
+    "where": 1,
+    "which": 1,
+    "whole": 1,
+    "with": 4,
+    "within": 1,
+    "without": 1,
+    "words": 1,
+    "work": 1,
+    "worker": 1,
+    "write": 3,
+    "writing": 2,
+    "you": 5,
+    "your": 3
+  },
+  "docTokenCounts": {
+    "./test/cpp_concurrency.txt": 396,
+    "./test/cpp_debugging.txt": 7,
+    "./test/cpp_design_patterns.txt": 8,
+    "./test/cpp_exceptions.txt": 91,
+    "./test/cpp_file_io.txt": 107,
+    "./test/cpp_inheritance.txt": 50,
+    "./test/cpp_lambda.txt": 53,
+    "./test/cpp_memory.txt": 33,
+    "./test/find_tip.md": 5,
+    "./test/git_commands.txt": 24,
+    "./test/grep_tip.md": 81,
+    "./test/linux_tips.md": 237,
+    "./test/ls_tip.md": 56
+  },
+  "index": {
+    "11": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "14": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "17": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "20": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "42": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "755": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "about": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "abstractions": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "access": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "acquiring": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "add": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "addr": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "advantage": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "after": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "algorithm": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "algorithms": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "all": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "allow": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "allowing": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "allows": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "also": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "always": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "anonymous": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "another": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "applications": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "apply": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "applying": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "are": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "arguments": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "as": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 3
+      }
+    ],
+    "async": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "asynchronous": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "auto": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "avoid": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "base": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "bash": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 8
+      }
+    ],
+    "basic": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "basics": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "be": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "been": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "begin": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "behaviors": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "best": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "better": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "between": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "blocks": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "bool": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "both": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "build": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "by": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "callbacks": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "called": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 2
+      }
+    ],
+    "can": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "case": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "catch": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      }
+    ],
+    "catching": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "caught": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      }
+    ],
+    "cd": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "cerr": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "change": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "changes": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 2
+      }
+    ],
+    "check": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 6
+      }
+    ],
+    "chmod": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "chown": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "class": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 4
+      }
+    ],
+    "classes": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "close": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "closed": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "closing": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "code": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "color": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "colored": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "combine": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 2
+      }
+    ],
+    "commands": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "commit": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "communication": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "comprehensive": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "compute": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "concept": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "concepts": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "concise": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "conclusion": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "concurrency": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 6
+      }
+    ],
+    "concurrent": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "condition": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 6
+      }
+    ],
+    "conditions": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "configuration": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "connectivity": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "consistent": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "const": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "constructor": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "continues": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "control": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "copy": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "count": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "cout": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 5
+      }
+    ],
+    "cp": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "cpp": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 5
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      }
+    ],
+    "create": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "curl": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "current": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "cv": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "data": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 7
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "deadlocks": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "debugging": [
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      }
+    ],
+    "define": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "delete": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "derived": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "design": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      }
+    ],
+    "destination": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "detailed": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "detect": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "developers": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "df": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "directly": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "directories": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 4
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "directory": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 8
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "disk": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "display": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "disrupts": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "done": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "download": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "du": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "dummy": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      }
+    ],
+    "each": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "easier": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "easily": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "effectively": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "efficient": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "enable": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "enabling": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "end": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "endl": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "enhanced": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "ensure": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "error": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 3
+      }
+    ],
+    "errors": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "essential": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "establishes": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "event": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "example": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "exception": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 6
+      }
+    ],
+    "exceptions": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 4
+      }
+    ],
+    "exclude": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "exclusion": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "executable": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "execute": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "execution": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "expression": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 2
+      }
+    ],
+    "expressions": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "expressive": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "false": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "feature": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "file": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 9
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 8
+      }
+    ],
+    "filename": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 7
+      }
+    ],
+    "files": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 15
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 8
+      }
+    ],
+    "find": [
+      {
+        "filename": "./test/find_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "finish": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "first": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "flag": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "flags": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "flow": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "followed": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "follows": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "for": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/find_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 9
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 4
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 5
+      }
+    ],
+    "format": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "free": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "from": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "fstream": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 3
+      }
+    ],
+    "full": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "functions": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "fundamental": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "further": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "future": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "futures": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "gained": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "get": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "git": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 3
+      }
+    ],
+    "grant": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "grep": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 10
+      }
+    ],
+    "group": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "guard": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "handling": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 3
+      }
+    ],
+    "has": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "header": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "hello": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "hidden": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "hierarchical": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "high": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "host": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "how": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "htop": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "human": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "id": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "if": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ifconfig": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ifstream": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "implemented": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "include": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 16
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "includes": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "info": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "information": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "inherit": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "inheritance": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 4
+      }
+    ],
+    "input": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "insensitive": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "inside": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "int": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 10
+      }
+    ],
+    "interacting": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "internet": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "introduced": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "introduction": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "invert": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "iostream": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 5
+      }
+    ],
+    "ip": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "it": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "its": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "join": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "key": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "keyword": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "kill": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "known": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "lah": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "lambda": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 3
+      }
+    ],
+    "lambdas": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 3
+      }
+    ],
+    "language": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "later": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "leaks": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 3
+      }
+    ],
+    "level": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "lh": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "libraries": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "library": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "like": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 2
+      }
+    ],
+    "line": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "lines": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "linux": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "list": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "listing": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "local": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "locate": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "lock": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 10
+      }
+    ],
+    "locks": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "logic": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "long": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ls": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 6
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "main": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 5
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "maintainable": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "make": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "making": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "manage": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "management": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "match": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "matches": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 2
+      }
+    ],
+    "md": [
+      {
+        "filename": "./test/find_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "mechanism": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "member": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "members": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "memory": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "message": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "met": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "method": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "minimize": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "modern": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "modification": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "modify": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "monitor": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "monitoring": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "more": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "move": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "mtx": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 5
+      }
+    ],
+    "multicore": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "multiple": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "multithreading": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "mutex": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 9
+      }
+    ],
+    "mutexes": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "mutual": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "mv": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "name": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "navigate": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "need": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "network": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "networking": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "new": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "normal": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "notify": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "number": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "numbers": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "object": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "occur": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "occurred": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "occurs": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "ofstream": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "often": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "one": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "only": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "oop": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "open": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "opening": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "operations": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "order": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "oriented": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "output": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "overview": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "owner": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ownership": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "par": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "parallel": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 4
+      }
+    ],
+    "part": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "particularly": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "pass": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "passing": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "path": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "pattern": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "patterns": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      }
+    ],
+    "permanently": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "permissions": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 5
+      }
+    ],
+    "persistent": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "pid": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ping": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "pointers": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "policies": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "pop": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "possible": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "powerful": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "practices": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "prevent": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "primarily": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "printmessage": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "printsafe": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "private": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "process": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 5
+      }
+    ],
+    "processes": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      }
+    ],
+    "processors": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "program": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 4
+      }
+    ],
+    "programming": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "programs": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "promise": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "promises": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "promotes": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "proper": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "properly": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "properties": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "protected": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "provide": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "provides": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "pstree": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "ptr": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 2
+      }
+    ],
+    "public": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "races": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "reachable": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "read": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "readability": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "readable": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "reading": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "ready": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "recursive": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "recursively": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "reduce": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "regex": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "regular": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "relationship": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "remove": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "rename": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "repository": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "resources": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "responsive": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "result": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "return": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 7
+      }
+    ],
+    "reuse": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "risk": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "rm": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "robust": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "running": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "runtime": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      }
+    ],
+    "save": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 2
+      }
+    ],
+    "scalable": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "scenarios": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "search": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 11
+      }
+    ],
+    "searching": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "see": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "set": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "settings": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "sh": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "shared": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "show": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "simplify": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "simultaneously": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "size": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "sizes": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "small": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "smart": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "sort": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "source": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "space": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "specific": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "specifier": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "standard": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "standards": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "stash": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 2
+      }
+    ],
+    "std": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 6
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 37
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 3
+      }
+    ],
+    "stdexcept": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "stl": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "storage": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "stream": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 4
+      }
+    ],
+    "string": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "subsequent": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "support": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "symbol": [
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "synchronization": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "syntax": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      }
+    ],
+    "system": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 4
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "t1": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "t2": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "take": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "tasks": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "template": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "temporarily": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      }
+    ],
+    "term": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 8
+      }
+    ],
+    "terminate": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "test": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "text": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "that": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "them": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "these": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "they": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "this": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "thread": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 14
+      }
+    ],
+    "threads": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 6
+      }
+    ],
+    "three": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "through": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "throw": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      }
+    ],
+    "throwing": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "thrown": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "time": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "tip": [
+      {
+        "filename": "./test/find_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "tips": [
+      {
+        "filename": "./test/find_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "tools": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "top": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "transfer": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "tree": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "true": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "try": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "txt": [
+      {
+        "filename": "./test/cpp_design_patterns.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_debugging.txt",
+        "termFrequency": 1
+      }
+    ],
+    "uname": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "understanding": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "unexpected": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "unique": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "unit": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "uptime": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "url": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "usage": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 5
+      }
+    ],
+    "use": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 23
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "used": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 3
+      }
+    ],
+    "useful": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "user": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "using": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_inheritance.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "valgrind": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "variable": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "variables": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "vector": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      }
+    ],
+    "view": [
+      {
+        "filename": "./test/ls_tip.md",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 6
+      }
+    ],
+    "void": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "wait": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "way": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "wget": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 1
+      }
+    ],
+    "what": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      }
+    ],
+    "when": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "where": [
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      }
+    ],
+    "which": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      }
+    ],
+    "whole": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "with": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "within": [
+      {
+        "filename": "./test/linux_tips.md",
+        "termFrequency": 2
+      }
+    ],
+    "without": [
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ],
+    "words": [
+      {
+        "filename": "./test/grep_tip.md",
+        "termFrequency": 1
+      }
+    ],
+    "work": [
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "worker": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 3
+      }
+    ],
+    "write": [
+      {
+        "filename": "./test/cpp_exceptions.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "writing": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 2
+      }
+    ],
+    "you": [
+      {
+        "filename": "./test/cpp_concurrency.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 2
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_file_io.txt",
+        "termFrequency": 1
+      }
+    ],
+    "your": [
+      {
+        "filename": "./test/git_commands.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_lambda.txt",
+        "termFrequency": 1
+      },
+      {
+        "filename": "./test/cpp_memory.txt",
+        "termFrequency": 1
+      }
+    ]
+  }
+}
