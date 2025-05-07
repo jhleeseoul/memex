@@ -71,21 +71,24 @@ sudo apt install g++ make build-essential
 ### 인덱싱 (디렉토리 지정)
 
 ```bash
-./memex index ./notes
+./memex index ./test
 ```
 
 ### 검색
 
 ```bash
-./memex search "memory leak detection"
+./memex search "grep tips"
 ```
 
 ### 결과 예시
 
 ```
+[?] Loading index from index.json...
 [🔍] Top results:
- 1. ./notes/cpp_memory.md (score: 0.7234)
- 2. ./dev/debug_tips.txt (score: 0.5182)
+ 1. ./test/grep_tip.md  (score: 0.1674)
+ 2. ./test/find_tip.md  (score: 0.0425)
+ 3. ./test/ls_tip.md  (score: 0.0184)
+ 4. ./test/linux_tips.md  (score: 0.0149)
 ```
 
 ---
